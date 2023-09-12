@@ -27,28 +27,28 @@
 
 ### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
 #### Błędy jakie znalazłam (tetowanie eksploracyjne): 
-1. Podczas dodawania gracza, po wypełnieniu formularza, pojawia się informacja "Nie udało się dodać gracza" lecz błędnie wypełnione pola nie są w żaden sposób wskazane/podpowiedziane.
-2. Podczas dodawania gracza, w formularzu można podać ujemne wartości w oknach "Waga" oraz "Wzrost", system przepuszcza to jako poprawną wartość.
-3. Podczas dodawania gracza, w formularzu, imieniem oraz nazwiskiem mogą być cyfry.
-4. Podczas dodawania gracza, w formularzu, numerem telefonu mogą być litery. 
-5. Podczas dodawania gracza, w formularzu, w oknie "Link do Youtube" system pozwala na wpisanie liter, cyf, kombinacji niebędących hiperłączem.
-6. Podczas dodawania gracza, w formularzu, system pozwala na dodanie przyszłej daty w oknie "Data urodzenia".
-7. Po zmianie języka na język angielski w aplikacji:
-   - w zakładce "Add player"  niektóre okna nadal wyjaśnione są w języku polskim - okno "Łączy nas piłka" oraz okno "90 minut".
-   - w oknie "District" do wyboru są dziwne wyniki - miasta, wymyślone określenia itd.
-   - w zakładce "Matches" po prawej stronie, przy każdym meczu, wyświetlaja się opcje "Edit", "Add report" i "Start report" w wersji polskiej zamiast start raport było "Rozpocznij mecz", więc chodzi tu o czecz czy o      raport?
-8. W zakładce "Raporty", po wejściu w konkretnego gracza, po lewej stronie u góry pojawia się button "Dodaj raport" - kieruje on do istniejących już meczy, raport można dodać tylko do dodanego już meczu więc button "Dodaj raport" jest niepotrzebny i wpowadzający w błąd.
-9. Według mnie błędem jest również to, że każdy może edytować dane wszystkich zawodników, dane meczowe, raporty. Uważam, że możliwość te powinien mieć tylko autor konkretnego wpisu.
-10. Podczas edycji meczu część okien wyjaśniona jest w języku polskim, a część w języku angielskim. Dodatkowo data rozegranego meczu może być datą przyszłą, a czas meczu może być ujemny.
-11. W raporcie meczowym, w oknie "Link do meczu" można wprowadzić każdy znak, łącznie z emotikoną.
-12. Podsumowując - w każdym formularzu w aplikacji można wprowadzać wartości ujemne i daty przyszłe, a okna w których powinna być możliwość wpisania jedynie cyfr dopuszczają też litery oraz na odwrót.
+#### 1. Podczas dodawania gracza, po wypełnieniu formularza, pojawia się informacja "Nie udało się dodać gracza" lecz błędnie wypełnione pola nie są w żaden sposób wskazane/podpowiedziane.
+#### 2. Podczas dodawania gracza, w formularzu można podać ujemne wartości w oknach "Waga" oraz "Wzrost", system przepuszcza to jako poprawną wartość.
+#### 3. Podczas dodawania gracza, w formularzu, imieniem oraz nazwiskiem mogą być cyfry.
+#### 4. Podczas dodawania gracza, w formularzu, numerem telefonu mogą być litery. 
+#### 5. Podczas dodawania gracza, w formularzu, w oknie "Link do Youtube" system pozwala na wpisanie liter, cyf, kombinacji niebędących hiperłączem.
+#### 6. Podczas dodawania gracza, w formularzu, system pozwala na dodanie przyszłej daty w oknie "Data urodzenia".
+#### 7. Po zmianie języka na język angielski w aplikacji:
+   #### - w zakładce "Add player"  niektóre okna nadal wyjaśnione są w języku polskim - okno "Łączy nas piłka" oraz okno "90 minut".
+  #### - w oknie "District" do wyboru są dziwne wyniki - miasta, wymyślone określenia itd.
+   #### - w zakładce "Matches" po prawej stronie, przy każdym meczu, wyświetlaja się opcje "Edit", "Add report" i "Start report" w wersji polskiej zamiast start raport było "Rozpocznij mecz", więc chodzi tu o mecz czy o raport?
+#### 8. W zakładce "Raporty", po wejściu w konkretnego gracza, po lewej stronie u góry pojawia się button "Dodaj raport" - kieruje on do istniejących już meczy, raport można dodać tylko do dodanego już meczu więc button "Dodaj raport" jest niepotrzebny i wpowadzający w błąd.
+#### 9. Według mnie błędem jest również to, że każdy może edytować dane wszystkich zawodników, dane meczowe, raporty. Uważam, że możliwość te powinien mieć tylko autor konkretnego wpisu.
+#### 10. Podczas edycji meczu część okien wyjaśniona jest w języku polskim, a część w języku angielskim. Dodatkowo data rozegranego meczu może być datą przyszłą, a czas meczu może być ujemny.
+#### 11. W raporcie meczowym, w oknie "Link do meczu" można wprowadzić każdy znak, łącznie z emotikoną.
+#### 12. Podsumowując - w każdym formularzu w aplikacji można wprowadzać wartości ujemne i daty przyszłe, a okna w których powinna być możliwość wpisania jedynie cyfr dopuszczają też litery oraz na odwrót.
 
 ### Komunikaty jakie zostały wyświetlone przez DevTools:
-1. A <label> isn't associated with a form field.
-2. An element doesn't have an autocomplete attribute.
-3. A form field element has neither an id nor a name attribute. This might prevent the browser from correctly autofilling the form.
-4. Params `start` and `limit` are deprecated. Use `_start` and `_limit`
+#### 1. A label isn't associated with a form field.
+#### 2. An element doesn't have an autocomplete attribute.
+#### 3. A form field element has neither an id nor a name attribute. This might prevent the browser from correctly autofilling the form.
+#### 4. Params `start` and `limit` are deprecated. Use `_start` and `_limit`
 
 
 ## Subtask 5
-### https://bembenstefania.atlassian.net/jira/software/c/projects/CPP/boards/4?atlOrigin=eyJpIjoiMjkyYmY4YjY5MjA4NDZmYWI2MGM5NDdmNDM5ZmQ1MzMiLCJwIjoiaiJ9
+#### https://bembenstefania.atlassian.net/jira/software/c/projects/CPP/boards/4?atlOrigin=eyJpIjoiMjkyYmY4YjY5MjA4NDZmYWI2MGM5NDdmNDM5ZmQ1MzMiLCJwIjoiaiJ9
