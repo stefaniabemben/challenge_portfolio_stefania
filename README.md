@@ -26,7 +26,7 @@
 #### W aplikacji intuicyjne są działania związane z głównymi funkcjonalnościami, np. logowanie, dodawanie gracza. Natomiast po przejściu do strony umożliwiającej dodanie gracza aplikacja pozostawia wiele do życznia. Pola do uzupełnienia nie są w należyty sposób wyjaśnione. Na przykład pole "profil na facebooku" nie wyjaśnia w żaden sposób czy powinna to być nazwa profilu czy link, pole "Łączy nas piłka" oraz pole "90 minut" również nie są zrozumiałe, ciężko wywnioskować jakie informacje powinny się tam znaleźć. Dodatkowo w zakłądce "Mecze" nieintuicyjna jest według mnie symulacja meczu (button "Rozpocznij mecz"). Nie zostało tam wyjaśnione działanie danego meczu, możliwe ruchy - dopiero w procesie eksploracji można zorientować się o co chodzi. Dodawanie nowych raportów nie jest możliwe z poziomu zakładki "Raporty" mimo, że jest tam poświęcony temu button - kieruje on do zakłądki "Mecze" i dopiero po dodaniu nowego meczu możemy dołączyć do niego raport - więc dodawanie nowych raportów nie jest intuicyjne - również można dotrzeć do tego dopiero po eksploracji. Nieintuicyjny jest również według mnie fakt, że nie dodano buttonu "Dodaj gracza" do menu po lewej stronie. 
 
 ### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)
-#### Błędy jakie znalazłam: 
+#### Błędy jakie znalazłam (tetowanie eksploracyjne): 
 1. Podczas dodawania gracza, po wypełnieniu formularza, pojawia się informacja "Nie udało się dodać gracza" lecz błędnie wypełnione pola nie są w żaden sposób wskazane/podpowiedziane.
 2. Podczas dodawania gracza, w formularzu można podać ujemne wartości w oknach "Waga" oraz "Wzrost", system przepuszcza to jako poprawną wartość.
 3. Podczas dodawania gracza, w formularzu, imieniem oraz nazwiskiem mogą być cyfry.
@@ -42,5 +42,12 @@
 10. Podczas edycji meczu część okien wyjaśniona jest w języku polskim, a część w języku angielskim. Dodatkowo data rozegranego meczu może być datą przyszłą, a czas meczu może być ujemny.
 11. W raporcie meczowym, w oknie "Link do meczu" można wprowadzić każdy znak, łącznie z emotikoną.
 12. Podsumowując - w każdym formularzu w aplikacji można wprowadzać wartości ujemne i daty przyszłe, a okna w których powinna być możliwość wpisania jedynie cyfr dopuszczają też litery oraz na odwrót.
+
+### Komunikaty jakie zostały wyświetlone przez DevTools:
+1. A <label> isn't associated with a form field.
+2. An element doesn't have an autocomplete attribute.
+3. A form field element has neither an id nor a name attribute. This might prevent the browser from correctly autofilling the form.
+4. Params `start` and `limit` are deprecated. Use `_start` and `_limit`
+
 
 ## Subtask 5
