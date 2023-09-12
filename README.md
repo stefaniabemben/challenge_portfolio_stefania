@@ -9,6 +9,7 @@
 #### Aplikacja https://scouts-test.futbolkolektyw.pl/pl
 
 ### Na czym polega ta aplikacja? Do czego służy?
+
 #### Aplikacja umożliwia zalogowanie się, dodawanie graczy do bazy, przeglądanie dodanych już graczy, przelądanie ich wyników, pozyskiwanie kontaktu do nich oraz innych informacji na temat ich gry. Dodatkowo w alikacji można zobaczyć raporty dotyczące konkretnych graczy oraz rozegrane przez nich mecze oraz zasymulować rozgrywkę meczu. 
 
 
