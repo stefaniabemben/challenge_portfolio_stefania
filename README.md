@@ -52,3 +52,13 @@
 
 ## Subtask 5
 #### https://bembenstefania.atlassian.net/jira/software/c/projects/CPP/boards/4?atlOrigin=eyJpIjoiMjkyYmY4YjY5MjA4NDZmYWI2MGM5NDdmNDM5ZmQ1MzMiLCJwIjoiaiJ9
+
+
+# TASK 2
+## Subtask 1
+### https://docs.google.com/document/d/1k4ZAYKrZsnLurpbyn12vJUJOCFfBNYjkaLJFR70wLfQ/edit?usp=sharing
+## Subtask 2
+### https://docs.google.com/document/d/16-8lo_xljnaKcC2OsRL9N51uJCJtCIfooeD6DRB51NU/edit?usp=sharing
+## Subtask 3
+### Po co piszemy test case'y? 
+#### Test case'y są według mnie drogowskazami dla testera. Wskazują odpowiedni kierunek drogi (steps) oraz pokazują, co powinniśmy na jej końcu znaleźć - nasz cel (expected result). Są zbiorem niezbędnych informacji, kroków i działań, które powinny doprowadzić nas do oczekiwanego rezultatu. Tester to podróżnik, który musi skorzystać z tych podpowiedzi, aby sprawdzić, czy na końcu drogi na pewno jest to, co powinno. 
