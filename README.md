@@ -75,3 +75,6 @@
 
 ## Subtask 3
 ### https://drive.google.com/file/d/1byt0kxRo-8iUGY6Tqhjue9FEtxJ17Ej5/view?usp=sharing
+### https://docs.google.com/document/d/1-Zagu3sfCvylMe-xhQvgzoU1o8F-yXlbESPoP3GtoiY/edit?usp=sharing
+
+
