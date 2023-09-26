@@ -67,3 +67,11 @@
 #### Test case'y są według mnie drogowskazami dla testera :construction: . Wskazują odpowiedni kierunek drogi (steps) oraz pokazują, co powinniśmy na jej końcu znaleźć - nasz cel (expected result) :round_pushpin:. Są zbiorem niezbędnych informacji, kroków i działań, które powinny doprowadzić nas do oczekiwanego rezultatu. Tester to podróżnik, który musi skorzystać z tych podpowiedzi, aby sprawdzić, czy na końcu drogi na pewno jest to, co powinno. :train:
 ## Subtask 4
 ### https://docs.google.com/document/d/1-G_Sdx3GO0e50BIi7RgGPQE_eoST4A8mHG2J7dT0D1Q/edit?usp=sharing
+
+
+# TASK 3
+## Subtask 1 i 2
+### https://docs.google.com/document/d/1zzCmCirSAxY8QeyQ3Id2DQuTd6h-6-ObgrV8PIytKus/edit?usp=sharing
+
+## Subtask 3
+### https://drive.google.com/file/d/1A59e6rPcdxxXp_n-uuREeAspFOTmmLF6/view?usp=sharing
