@@ -78,3 +78,27 @@
 ### https://docs.google.com/document/d/1-Zagu3sfCvylMe-xhQvgzoU1o8F-yXlbESPoP3GtoiY/edit?usp=sharing
 
 
+# TASK 4
+## Subtask 1 i 2 
+### https://docs.google.com/document/d/1SkUuETJYvgak5-9bt8rQL3JJt1D1QwCa9u9rrT5wohM/edit?usp=sharing
+
+## Subtask 3 
+### Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+#### Aplikacja służy do zamieszczania przedmiotów przeznaczonych na sprzedaż/wymianę/do oddania za darmo oraz umożliwia zakup wystawionych tam przedmiotów (kontakt z osobą wystawiającą ogłoszenie, finalizaja transakcji). Dodatkwo aplikacja ma również opcję zamieszczania ogłoszeń o pracę oraz utworzenia profilu kandydata, który pozwoli na aplikowanie na wyżej wymienione ogłoszenia. 
+
+### Kto ma być użytkownikiem końcowym aplikacji?
+#### Użytkownikiem końcowym aplikacji jest osoba poszukująca danego przedmiotu/pracy lub osoba wystawiająca ogłoszenie. 
+
+### Czy według Ciebie aplikacja jest user friendly?
+#### Uważam, że aplikacja OLX.pl jest dość przyjazna dla użytkowników. Jest szybka oraz uważam ją za bezpieczną. Moja opinia może wynikać z faktu, iż na codzień wiele z niej korzystam, jenak uważam, że przeciętny użykownik również nie powinien mieć z nią problemów, przynajmniej na sprzęcie, na jakim ja miałam okazję ją testować. Niestety interfejs aplikacji pozostawia wiele do życzenia, nie jest przejżysty. Uważam, że wyszukiwanie produktów w polu "Search" jest intuicyjne natomiast wszystkie produkty pojawiające się na stronie głównej w zakładkach produktów proponowanych, produków obserowanych i produktów ostatnio oglądanych zlewają się w jedną całość. 
+
+### Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+#### Uważam, że obok miniaturek przedmiotów oraz nazwy ogłoszenia powinna być widoczna ikona zawierająca informację, czy można zakupić dany przedmiot z wysyłką. Woalałabym wiedzieć to zanim kliknę w dany przedmiot i wyświetlę o nim pełne informacje. 
+#### Dodatkowo interfejs nie jest zbyt przejżysty. Według mnie upożądkowane powinny zostać zakładki z produktami ostatnio oglądanymi, produktami proponowanymi oraz ulubionymi, tak aby nie zlewały się w jedną całość. 
+
+### Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+#### Główną różnicą jaką widzę jest dostosowanie aplikacji natywnej do sprzętu na jakim ją testuję - dostęp do lokalizacji, plików zapisanych na danym sprzęcie oraz dostosowanie interfejsu i systemu, co sprawia, że testowanie jest sprawniejsze i może przebiegać w rzeczywistym środkowisku. Dodatkowo aplikacja natywna jest szybka, działa sprawniej niż aplikacja internetowa. Przy testowaniu aplikacji natywnej mogę się również skupić na aspektach takich jak żywotność baterii podczas korzystania, otrzymywanie powiadomień od aplikacji. 
+
+
+## Subtask 4 
+#### https://bembenstefania.atlassian.net/jira/software/c/projects/CPP/boards/4/backlog?atlOrigin=eyJpIjoiMDZhNjY4NDBiNThlNGQ3ODgyMmRiMjI1NzRhMWExNWQiLCJwIjoiaiJ9
