@@ -102,3 +102,7 @@
 
 ## Subtask 4 
 #### https://bembenstefania.atlassian.net/jira/software/c/projects/CPP/boards/4?atlOrigin=eyJpIjoiMmU1Y2ZkZjg3YzU1NDJkMmEzNjk2MzUyMDM1ZWRlNjQiLCJwIjoiaiJ9
+
+
+# TASK 5
+## Subtask 1 -Kurs podstaw SQL
