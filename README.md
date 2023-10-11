@@ -107,24 +107,23 @@
 # TASK 5
 ## Subtask 1 -Kurs podstaw SQL
 ## Subtask 2
+<img width="314" alt="Zrzut ekranu 2023-10-11 090703" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/d897beef-74d9-453a-b95e-196e10969b9c">
 ## Subtask 3 - Zadania
 ### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 <img width="460" alt="Zrzut ekranu 2023-10-11 090435" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/cc0f9b69-fd82-4550-be33-2f35f7426f74">
+### 2. Wyświetl film, który powstał w 2019 roku.
+<img width="309" alt="Zrzut ekranu 2023-10-11 091226" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/4aaa7752-18a8-4723-95ac-df849e31dcdb">
+### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+<img width="341" alt="Zrzut ekranu 2023-10-11 091813" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/22c214d8-ff08-4cd0-8708-c365d8aa14fd">
+### Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+<img width="323" alt="Zrzut ekranu 2023-10-11 092221" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/f0deaa5a-cd90-429e-9286-4e21b38f470b">
+### Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+<img width="317" alt="Zrzut ekranu 2023-10-11 092708" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/3f7b5ddd-c063-4114-8386-845a72bcffb8">
+### Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
-
-Wyświetl film, który powstał w 2019 roku.
-
-Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
-
-Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-
-Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-
-Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-
-Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
-
-Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+### Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+<img width="366" alt="Zrzut ekranu 2023-10-11 093424" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/c19ea2dd-e25c-4450-a46b-4f6f6c0cf1a4">0
+### Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
 Wyświetl dane klienta, który nie ma podanego adresu email.
 
