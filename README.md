@@ -128,3 +128,4 @@
 ### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
 ### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+### !<img width="357" alt="Zrzut ekranu 2023-10-11 113322" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/3dd45ca4-c843-48cf-a74d-78b7dc7c9c9a">
