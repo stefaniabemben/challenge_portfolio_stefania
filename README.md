@@ -126,6 +126,6 @@
 ### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 # ![8](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/54080b36a9dd55107ebe9ba98ed4656a65434826/Zrzut%20ekranu%202023-10-11%20121933.png)
 ### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
-# ![9[](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20113322.png)
+# ![9](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20113322.png)
 ### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 # ![10](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20113322.png)
