@@ -107,7 +107,7 @@
 # TASK 5
 ## Subtask 1 -Kurs podstaw SQL
 ## Subtask 2
-# ![](Zrzut ekranu 2023-10-11 090703.png)
+# ![](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/9e616ea11a9ab850880464e0921cffa376d184cd/Zrzut%20ekranu%202023-10-11%20090703.png)
 ## Subtask 3 - Zadania
 ### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 # <img width="460" alt="Zrzut ekranu 2023-10-11 090435" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/cc0f9b69-fd82-4550-be33-2f35f7426f74">
