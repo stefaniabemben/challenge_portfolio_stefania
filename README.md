@@ -107,25 +107,25 @@
 # TASK 5
 ## Subtask 1 -Kurs podstaw SQL
 ## Subtask 2
-# ![](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/9e616ea11a9ab850880464e0921cffa376d184cd/Zrzut%20ekranu%202023-10-11%20090703.png)
+# ![0](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/9e616ea11a9ab850880464e0921cffa376d184cd/Zrzut%20ekranu%202023-10-11%20090703.png)
 ## Subtask 3 - Zadania
 ### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
-# <img width="460" alt="Zrzut ekranu 2023-10-11 090435" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/cc0f9b69-fd82-4550-be33-2f35f7426f74">
+# ![1](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20090435.png)
 ### 2. Wyświetl film, który powstał w 2019 roku.
-# <img width="309" alt="Zrzut ekranu 2023-10-11 091226" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/4aaa7752-18a8-4723-95ac-df849e31dcdb">
+# ![2](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20091226.png)
 ### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
-# <img width="341" alt="Zrzut ekranu 2023-10-11 091813" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/22c214d8-ff08-4cd0-8708-c365d8aa14fd">
+# ![3](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20091813.png)
 ### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-# <img width="323" alt="Zrzut ekranu 2023-10-11 092221" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/f0deaa5a-cd90-429e-9286-4e21b38f470b">
+# ![4](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20092221.png)
 ### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-# <img width="317" alt="Zrzut ekranu 2023-10-11 092708" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/3f7b5ddd-c063-4114-8386-845a72bcffb8">
+# ![5](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20092708.png)
 ### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-
+# ![6]()
 ### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
-# <img width="366" alt="Zrzut ekranu 2023-10-11 093424" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/c19ea2dd-e25c-4450-a46b-4f6f6c0cf1a4">
+# ![7](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20093424.png)
 ### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
-
+# ![8]()
 ### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
-
+# ![9]()
 ### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
-# <img width="357" alt="Zrzut ekranu 2023-10-11 113322" src="https://github.com/stefaniabemben/challenge_portfolio_stefania/assets/137799832/3dd45ca4-c843-48cf-a74d-78b7dc7c9c9a">
+# ![10](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20113322.png)
