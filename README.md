@@ -120,12 +120,12 @@
 ### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 # ![5](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20092708.png)
 ### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-# ![6]()
+# ![6](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/37b870b062a7aa591a661e1e1023130f4362376e/Zrzut%20ekranu%202023-10-11%20121716.png)
 ### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 # ![7](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20093424.png)
 ### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
-# ![8]()
+# ![8](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/54080b36a9dd55107ebe9ba98ed4656a65434826/Zrzut%20ekranu%202023-10-11%20121933.png)
 ### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
-# ![9]()
+# ![9[](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20113322.png)
 ### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 # ![10](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/5e02408d043e82bba24e520558bb08ce6de4c58d/Zrzut%20ekranu%202023-10-11%20113322.png)
