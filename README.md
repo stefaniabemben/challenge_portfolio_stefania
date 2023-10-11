@@ -106,6 +106,32 @@
 
 # TASK 5
 ## Subtask 1 -Kurs podstaw SQL
+
+### Zapytania, których się nauczyłam:
+#### SELECT*FROM
+#### SELECT*FROM ... ORDER BY ...
+#### SELECT*FROM... ORDER BY... DESC
+#### SELECT*FROM .. WHERE ...=...
+#### SELECT*FROM .. WHERE ...>...
+#### SELECT*FROM .. WHERE ...>=...
+#### SELECT*FROM .. WHERE ...<=...
+#### SELECT*FROM .. WHERE ...<...
+#### SELECT*FROM .. WHERE ...BETWEEN...AND...
+#### SELECT*FROM .. WHERE ...LIKE '%...%'
+#### SELECT*FROM .. WHERE ...LIKE '..., _'
+#### SELECT ... FROM ... WHERE ... AND...
+#### SELECT * FROM ... WHERE ... IS NULL
+#### SELECT * FROM ... WHERE ... IS NOT NULL
+#### SELECT GETDATE()
+#### SELECT UPPER ()
+#### SELECT DATEDIFF()
+#### SELECT COUNT()
+#### SELECT SUM()
+#### SELECT MIN()
+#### SELECT ... FROM... GROUP BY...
+#### SELECT*FROM ... JOIN ... ON
+
+
 ## Subtask 2
 # ![0](https://github.com/stefaniabemben/challenge_portfolio_stefania/blob/9e616ea11a9ab850880464e0921cffa376d184cd/Zrzut%20ekranu%202023-10-11%20090703.png)
 ## Subtask 3 - Zadania
