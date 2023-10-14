@@ -178,3 +178,6 @@
 
 ### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
+## Subtask 2 - rozwiązanie quizu 
+### 12 punktów
+
